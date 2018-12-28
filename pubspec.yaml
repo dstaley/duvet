@@ -1,11 +1,14 @@
 name: duvet
 description: Duvet generates nice-looking coverage reports for your Dart projects.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/dstaley/duvet
 author: Dylan Staley <staley.dylan@gmail.com>
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
+
+executables:
+  duvet_cover:
 
 dependencies:
   args: ^1.5.1

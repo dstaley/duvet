@@ -6,7 +6,7 @@ Duvet generates nice-looking coverage reports for your Dart projects.
 
 ## Installation
 
-Add Duvet to your project by adding the following to your `pubspec.yml`:
+Add Duvet to your project by adding the following to your `pubspec.yaml`:
 
 ```yml
 dev_dependencies:
